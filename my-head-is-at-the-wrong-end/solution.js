@@ -1,5 +1,5 @@
 'use strict';
 
-(function fixTheMeerkat(arr) {
+function fixTheMeerkat(arr) { //eslint-disable-line
   return arr.reverse();
-})();
+};
